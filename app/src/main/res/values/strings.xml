@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="trigger_software_update">Trigger Software Update</string>
+</resources>
